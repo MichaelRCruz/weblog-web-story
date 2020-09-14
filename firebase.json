@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "lolphotos",
+    "target": "weblog",
     "public": "public",
     "ignore": [
       "firebase.json",
