@@ -8,38 +8,31 @@
   "components": [
     {
       "type": "heading",
-      "text": "The News"
+      "text": "Weblog"
+    },
+    {
+      "type": "portrait",
+      "title": "Learn about my work on GitHub.",
+      "url": "https://github.com/MichaelRCruz",
+      "image": "assets/my-work.png"
+    },
+    {
+      "type": "landscape",
+      "title": "Learn about my social life on Instagram.",
+      "url": "https://instagram.com/thenews_is/",
+      "image": "assets/instagram.png",
+      "category": "Friends"
+    },
+    {
+      "type": "portrait",
+      "title": "Learn about my music on Spotify",
+      "url": "https://open.spotify.com/artist/3FB7ENQeo8RY672SFFuRM5?si=JxJ6LaupQ7egYzxpxnvO_Q",
+      "image": "assets/spotify-profile.jpeg",
+      "category": "Music"
     },
     {
       "type": "heading",
       "text": "This website uses cookies to track your usage only on this site. This data helps me provide you with a better experience. If you have amy questions or requests regarding your data, please call me at +1 (608) 999-1413 or email me at michael@michaelcruz.io | The News © 2020"
-    },
-    {
-      "type": "small",
-      "title": "Learn about my work.",
-      "url": "https://github.com/MichaelRCruz",
-      "image": "assets/the-news.jpg"
-    },
-    {
-      "type": "landscape",
-      "title": "Learn about my social life.",
-      "url": "https://www.instagram.com/thenews.is/",
-      "image": "assets/the-news.jpg",
-      "category": "Friends"
-    },
-    {
-      "type": "small",
-      "title": "8080 | The News",
-      "url": "https://open.spotify.com/artist/3FB7ENQeo8RY672SFFuRM5?si=H7bhPlNFS3CexawcOOtVLw",
-      "image": "assets/the-news.jpg",
-      "category": "Music"
-    },
-    {
-      "type": "landscape",
-      "title": "Learn about my social life.",
-      "url": "https://www.youtube.com/channel/UCkSRM31FkvtgWPEYDID12ng/about?disable_polymer=1",
-      "image": "assets/the-news.jpg",
-      "category": "Friends"
     }
   ]
 }
